@@ -1,6 +1,6 @@
 {
   "name": "kodokux/codiad",
-  "type": "application",
+  "type": "waffle-plugin",
   "description": "Web Based IDE",
   "keywords": ["ide","development","environment","editor"],
   "homepage": "http://www.codiad.com",
