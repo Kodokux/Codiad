@@ -1,5 +1,5 @@
 {
-  "name": "codiad/codiad",
+  "name": "kodokux/codiad",
   "type": "application",
   "description": "Web Based IDE",
   "keywords": ["ide","development","environment","editor"],
@@ -46,7 +46,7 @@
   {
     "installer-paths":
     {
-      "apps/{$name}": ["codiad/codiad"]
+      "installer-name": "codiad"
     }
   }
 }
